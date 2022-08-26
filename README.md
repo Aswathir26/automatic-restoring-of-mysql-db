@@ -17,5 +17,7 @@ save your backup of databases in dbs directory (eg: db_backup1 and db_backup2) a
 run the commands:
 
  $ terraform init
+ 
  $ terraform plan
+ 
  $ terraform apply
